@@ -1,14 +1,26 @@
-text = input("Enter the amount: ")
+try:
+    print("the currency notes of denomination is 10, 50, 100")
+    amt=int(input("enter the amount to be withdrawn:"))
+    a=0
+    b=0
+    c=0
+    if(amt%10!=0):
+        print("The withdrawal must be in 10's only")
+    elif(amt<=0):
+        print("only positive numbers")
 
-if not text.isdigit():
-    print("Please enter a valid positive amount!")
-else:
-    amount = int(text)
-
-    notes = [100, 50, 10]
-
-    for n in notes:
-        count = amount // n
-        amount = amount % n
-
-        print(n, "rupee note(s):", count)
+    else:
+        a=amt//100
+        amt=amt%100
+    
+        b=amt//50
+        amt=amt%50
+    
+        c=amt//10
+        amt=amt%10
+    
+    print("100 rupee notes=",a)
+    print("100 rupee notes=",b)
+    print("100 rupee notes=",c) 
+except ValueError:
+    print("enter a valid input") 
