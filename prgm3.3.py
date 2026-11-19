@@ -1,4 +1,4 @@
-n = int(input("Enter number of elements: "))
+n = int(input("Enter number of element: "))
 a, b = 0, 1
 for i in range(n):
     print(a, end=" ")
