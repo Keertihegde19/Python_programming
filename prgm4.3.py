@@ -1,7 +1,7 @@
 try:
     s = input("Enter a string: ")
 
-    if not s:
+    if not s.strip():
         raise ValueError("String cannot be empty")
 
     rev = s[::-1]
@@ -12,7 +12,4 @@ try:
         print("Not a Palindrome")
 
 except ValueError as e:
-    print("Error:", e)
-
-except Exception as e:
-    print("Unexpected error:", e)
+    print("Error message:", e)
