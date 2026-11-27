@@ -1,0 +1,48 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: How are you
+Enter the substring: are 
+Enter the position: s
+Traceback (most recent call last):
+  File "d:\Pyton\prgm4.5.py", line 11, in <module>
+    pos = int(input("Enter the position: "))
+ValueError: invalid literal for int() with base 10: 's'
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: how are you
+Enter the substring: guys
+Enter the position: 13
+Invalid position
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: how are you
+Enter the substring: guys             
+Enter the position: 12
+Invalid position
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.4.py'
+
+Enter a string: how are you
+Number of words: 3
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: How you
+Enter the substring: are
+Enter the position: 4
+Result: How areyou
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: hii
+Enter the substring: hello
+Enter the position: 8
+Invalid position
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: hii
+Enter the substring: 
+Substring cannot be empty
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.5.py'
+
+Enter the main string: 
+Enter the substring: hello
+Main string cannot be empty
+PS D:\Pyton> 
