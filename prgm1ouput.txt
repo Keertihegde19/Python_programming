@@ -1,0 +1,17 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm1.py'
+Enter the amount: amount
+Please enter a valid positive amount!
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm1.py'
+Enter the amount: 13453
+100 rupee note(s): 134
+50 rupee note(s): 1
+10 rupee note(s): 0
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm1.py'
+Enter the amount: 376
+100 rupee note(s): 3
+50 rupee note(s): 1
+10 rupee note(s): 2
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm1.py'
+Enter the amount: 
+Please enter a valid positive amount!
+PS D:\Pyton> 
