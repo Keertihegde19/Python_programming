@@ -1,0 +1,9 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.4.py'
+
+Enter a string: 
+String not empty
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.4.py'
+
+Enter a string: Hello How are you
+Number of words: 4
+PS D:\Pyton> 
