@@ -1,1 +1,16 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.3.py'
 
+Enter number of element: 5
+0 1 1 2 3 
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.3.py'
+
+Enter number of element: a
+Traceback (most recent call last):
+  File "d:\Pyton\prgm3.3.py", line 1, in <module>
+    n = int(input("Enter number of element: "))
+ValueError: invalid literal for int() with base 10: 'a'
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.3.py'
+
+Enter number of element: 7
+0 1 1 2 3 5 8 
+PS D:\Pyton> 
