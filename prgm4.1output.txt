@@ -1,0 +1,13 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.1.py'
+
+Enter a string: madam
+Palindrome
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.1.py'
+
+Enter a string: 
+String empty
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.1.py'
+
+Enter a string: hello
+Not a Palindrome
+PS D:\Pyton> 
