@@ -1,0 +1,16 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.1.py'
+
+Enter a number: 5
+5 is an Odd number
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.1.py'
+
+Enter a number: a
+Traceback (most recent call last):
+  File "d:\Pyton\prgm3.1.py", line 1, in <module>
+    n = int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'a'
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm3.1.py'
+
+Enter a number: 20
+20 is an Even number
+PS D:\Pyton> 
