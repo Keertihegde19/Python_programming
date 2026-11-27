@@ -1,0 +1,13 @@
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.3.py'
+
+Enter a string: 
+Error message: String cannot be empty
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.3.py'
+
+Enter a string: madam
+Palindrome
+PS D:\Pyton> & 'C:\Users\hp\AppData\Local\Programs\Python\Python313\python.exe' 'd:/Pyton/prgm4.3.py'
+
+Enter a string: hii    
+Not a Palindrome
+PS D:\Pyton> 
